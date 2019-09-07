@@ -1,2 +1,0 @@
-# MyLife
-For React App
